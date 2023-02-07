@@ -1,0 +1,7 @@
+db:
+  port: 5432
+  host: localhost
+  username: postgres
+  password: 123
+  dbname: postgres
+  sslmode: disable
